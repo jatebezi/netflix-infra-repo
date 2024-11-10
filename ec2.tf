@@ -1,0 +1,1 @@
+#this file creates ec2 instance.
